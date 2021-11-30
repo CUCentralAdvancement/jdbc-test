@@ -1,0 +1,4 @@
+connection.conf
+*.class
+old-version.java
+*.jar
